@@ -39,3 +39,10 @@ trash/
 # OS / editor
 .DS_Store
 *.swp
+
+# Else
+screenshot/
+docs/
+
+# README figures (re-include despite the *.png rule above)
+!figs/*.png
