@@ -1,6 +1,6 @@
 # PhyP-Net
 
-The paper [**"PhyP-Net: Physics-Constrained Deep Learning for Sub-Second EV Power Demand Prediction in Hybrid Energy Storage Systems"**][paper]'s experimentation code.
+The paper [**"PhyP-Net: Physics-Constrained Deep Learning for Sub-Second EV Power Demand Prediction in Hybrid Energy Storage Systems"**](https://ieeexplore.ieee.org/abstract/document/11579292)'s experimentation code.
 
 ## Overview
 
